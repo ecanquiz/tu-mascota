@@ -1,2 +1,0 @@
-# tu-mascota
-Tu Máscota
