@@ -1,0 +1,1 @@
+import{_ as s,l as t,m as a,z as o,k as c}from"./entry.a5ed6f25.js";const r={},l={class:"mx-auto mt-4 max-w-7xl space-y-4 px-4 xs:px-8 sm:px-10 lg:px-16 pb-16 w-3/5"};function n(e,m){return c(),t("div",null,[a("div",l,[o(e.$slots,"default")])])}const x=s(r,[["render",n]]);export{x as default};
