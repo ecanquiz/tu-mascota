@@ -1,8 +1,17 @@
 import { defineStore } from "pinia";
+
+type Product = {
+  name: string;
+  image: string;
+  price: number;
+  presentation: string;
+  saleType: string;
+}
+
 export const useProductStore = defineStore("ProductStore", {
   state: () => {
     return {
-      products: [],
+      products: [] as Product[],
     };
   },
   actions: {
@@ -12,3 +21,7 @@ export const useProductStore = defineStore("ProductStore", {
   },
   // getters
 });
+
+
+
+

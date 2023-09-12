@@ -1,7 +1,17 @@
-<script setup>
-defineProps({
-  product: { type: Object },
-});
+<script setup lang="ts">
+//@ts-nocheck
+
+type Product = {
+  name: string;
+  image: string;
+  price: number;
+  presentation: string;
+  saleType: string;
+}
+
+defineProps<{
+  product: Product  
+}>()
 </script>
 <template>
   <div class="">

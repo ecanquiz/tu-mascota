@@ -1,4 +1,5 @@
-<script setup>
+<script setup lang="ts">
+//@ts-nocheck
 // imports
 import { ref } from "vue";
 import CartItem from "./CartItem.vue";

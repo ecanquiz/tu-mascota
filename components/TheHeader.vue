@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
 import { useAuthUserStore } from "@/stores/AuthUserStore";
 import { mapState, mapActions } from "pinia";
 import CartWidget from "./CartWidget.vue";
-export default {
+export default defineComponent({
   components: { CartWidget },
   computed: {
     ...mapState(useAuthUserStore, {
@@ -14,7 +14,7 @@ export default {
       toTwitter: "visitTwitterProfile",
     }),
   },
-};
+});
 </script>
 
 <template>

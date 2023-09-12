@@ -37,6 +37,7 @@
     "name": "K-Nina (cachorro)",
     "image": "k-nina-cachorro.jpg",
     "price" : 12,
+    "saleType": "Por encargo",
     "presentation": "detallado a granel"
   },
   {

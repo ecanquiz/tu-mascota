@@ -1,4 +1,5 @@
-<script setup>
+<script setup lang="ts">
+//@ts-nocheck
 defineProps({
   modelValue: { type: [Number, String], default: 0 },
 });

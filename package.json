@@ -1,27 +1,28 @@
 {
+  "name": "nuxt-app",
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "postinstall": "nuxi prepare",
     "deploy": "gh-pages --dotfiles -d .output/public",
-    "postinstall": "nuxt prepare"
-  },
-  "devDependencies": {
-    "nuxt": "^3.7.1"
+    "start": "node .output/server/index.mjs"
   },
   "overrides": {
     "vue": "latest"
   },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@types/node": "^18.17.0",
+    "gh-pages": "^4.0.0",
+    "nuxt": "^3.6.5"
+  },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.3.0",
-    "@fortawesome/free-solid-svg-icons": "^6.3.0",
-    "@fortawesome/vue-fontawesome": "^3.0.3",
-    "@nuxt/image": "^1.0.0-rc.1",
-    "@nuxtjs/tailwindcss": "^6.3.1",
-    "@pinia/nuxt": "^0.4.6",
-    "gh-pages": "^6.0.0",
-    "pinia": "^2.0.30"
+    "@pinia/nuxt": "^0.4.11",
+    "nuxt-lodash": "^2.5.0",
+    "pinia": "^2.1.6"
   }
 }

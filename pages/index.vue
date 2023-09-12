@@ -25,7 +25,7 @@ productStore.fill();
       <AppButton @click="cartStore.undo">Undo</AppButton>
       <AppButton class="ml-2" @click="cartStore.redo">Redo</AppButton>
     </div>
-    <ClientOnly>
+    <ClientOnly v-if="productStore.products">
       <ul class="sm:flex flex-wrap gap-5">
         <ProductCard
           v-for="product in productStore.products"

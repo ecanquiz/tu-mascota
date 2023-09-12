@@ -1,4 +1,5 @@
-<script setup>
+<script setup lang="ts">
+//@ts-nocheck
 // imports
 import { ref } from "vue";
 //import AppCountInput from "./AppCountInput.vue";
@@ -13,17 +14,20 @@ defineEmits(["addToCart"])
 
 // data
 const count = ref(0);
+
+const path = computed(()=>  `./images/${props.product.image}`)
 </script>
 <template>
   <li class="card">
-    <!--img :src="`/images/${product.image}`" class="mb-3" width="300" /-->
-    <NuxtImg
+    <img :src="path" class="mb-3" width="300" />
+
+    <!--NuxtImg
     class="bg-blue-500"
-    :src="`/images/${product.image}`"
+    :src="`/images/${props.product?.image}`"
     width="300"
     height="300"
     fit="contain"
-    />
+    /-->
     <div>
       <CartDesc :product="product"/>
       <div class="text-center m-4">
