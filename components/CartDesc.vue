@@ -7,6 +7,8 @@ type Product = {
   price: number;
   presentation: string;
   saleType: string;
+  phase: string;
+  measure: string;
 }
 
 defineProps<{
@@ -15,8 +17,8 @@ defineProps<{
 </script>
 <template>
   <div class="">
-    <div>{{ product.name }} - {{ product.presentation }}</div>
-    <div>{{product.saleType}} - <span class="text-green-500">${{product.price}}</span></div>
+    <div>{{ product.name }} - {{ product.presentation }} - {{ product.phase }}</div>
+    <div>{{product.saleType}} - {{product.measure}} - <span class="text-green-500">${{product.price}}</span></div>
   </div>
 </template>
 
