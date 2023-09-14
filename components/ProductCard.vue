@@ -16,10 +16,14 @@ defineEmits(["addToCart"])
 const count = ref(0);
 
 const path = computed(()=>  `./images/${props.product.image}`)
+
+//const bgURL = computed(
+//  ()=>  `width:200px; height: 200px; border: solid; background-size: contain; background-repeat: no-repeat; background-image:url(${path.value})`)
 </script>
 <template>
   <li class="card">
-    <img :src="path" class="mb-3" width="300" />
+    <!--div :style="bgURL" class="width:200px; height: 200px;"></div-->
+    <img :src="path" class="mb-3"/>
 
     <!--NuxtImg
     class="bg-blue-500"
