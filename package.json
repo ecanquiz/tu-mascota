@@ -14,7 +14,7 @@
     "vue": "latest"
   },
   "devDependencies": {
-    "@nuxt/devtools": "latest",
+    "@nuxt/devtools": "^0.8.3",
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.17.0",
     "gh-pages": "^4.0.0",

@@ -1,172 +1,181 @@
 [
   {
-    "name": "Arena Aglomerante",
-    "image": "arena-aglomerante-neo.clean.jpg",
-    "price" : 4,
-    "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
-  },
-  {
-    "name": "Mirringo (adulto)",
+    "name": "Mirringo",
     "image": "mirringo-adulto.jpg",
     "price" : 4,
     "saleType": "Entrega inmediata",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Adulto",
+    "measure": "1 kg",
+    "spec": "Original"
   },{
-    "name": "Mirringo (gaticos)",
+    "name": "Mirringo",
     "image": "mirringo-gaticos.jpg",
     "price" : 4,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Cachorro",
+    "measure": "1 kg",
+    "spec": "Gaticos"
   },  
   {
-    "name": "Nutrión-Gatos-Premium",
+    "name": "Nutrión Gatos",
     "image": "nutrion-gatos-premium.jpg",
     "price": 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "",
+    "measure": "1 kg",
+    "spec": "Premium"
   },
   {
-    "name": "K-Nina (adulto)",
+    "name": "K-Nina",
     "image": "k-nina.jpg",
     "price" : 3,
     "saleType": "Por encargo",
-    "presentation": "detallado a granel",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "A granel detallado",
+    "phase": "Adulto",
+    "measure": "1 kg",
+    "spec": "Purina"
   },
   {
-    "name": "K-Nina (cachorro)",
+    "name": "K-Nina",
     "image": "k-nina-cachorro.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "detallado a granel",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "A granel detallado",
+    "phase": "Cachorro",
+    "measure": "1 kg",
+    "spec": "Purina"
   },
   {
     "name": "Dog-Chow",
     "image": "dog-chow.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "detallado a granel",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "A granel detallado",
+    "phase": "",
+    "measure": "1 kg",
+    "spec": "Purina"
   },
   {
     "name": "Dogourmet",
     "image": "dogourmet.jpg",
     "price" : 4,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Adulto",
+    "measure": "1 kg",
+    "spec": "Carne a la parrilla"
   },
   {
-    "name": "Ringo (pro-adulto)",
+    "name": "Ringo",
     "image": "ringo-pro-adulto.jpg",
     "price": 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Adulto",
+    "measure": "1 kg",
+    "spec": "Pro-digestion avanzada"
   },
   {
-    "name": "Ringo (pro-cachorro)",
+    "name": "Ringo",
     "image": "ringo-pro-cachorro.jpg",
     "price" : 3,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Cachorro",
+    "measure": "1 kg",
+    "spec": "Pro-digestion avanzada"
   },
   {
-    "name": "Ringo (cachorro)",
+    "name": "Ringo",
     "image": "ringo-cachorro.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Cachorro",
+    "measure": "1 kg",
+    "spec": "Estimula el crecimiento"
   },
   {
-    "name": "Nutra-Nuggets Maintenance for Cats",
+    "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-maintenance-for-cats.jpg",
     "price" : 3,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Todas las edades",
+    "measure": "1 kg",
+    "spec": "Mantenimiento para gatos"
   },
   {
-    "name": "Nutra-Nuggets Maintenance for Dogs",
+    "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-maintenance-for-dogs.jpg",
     "price" : 3,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Todas las edades",
+    "measure": "1 kg",
+    "spec": "Mantenimiento para perros"
   },
   {
-    "name": "Nutra-Nuggets Lamb Meal & Rice",
+    "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-lamb-meal-and-rice.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Todas las edades",
+    "measure": "1 kg",
+    "spec": "Harina de cordero y arroz"
   },
   {
     "name": "Cham's",
     "image": "champs.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Todas las edades",
+    "measure": "1 kg",
+    "spec": "Alimento completo"
   },
   {
     "name": "Cat-Chow",
     "image": "cat-chow.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Todas las edades",
+    "measure": "1 kg",
+    "spec": "Purina"
   },
   {
     "name": "Gatsy",
     "image": "gatsy.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Adultos",
+    "measure": "1 kg",
+    "spec": "Purina"
   },
   {
     "name": "Gatsy (sabores caseros)",
     "image": "gatsy-sabores-caseros.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Todas las edades",
+    "measure": "1 kg",
+    "spec": "Purina"
   },
   {
     "name": "Kit & Kaboodle (original)",
     "image": "kit-and-kaboodle-original.jpg",
     "price" : 12,
     "saleType": "Por encargo",
-    "presentation": "Paquete cellado",
-    "phase": "any",
-    "measure": "1 kg"
+    "presentation": "Paquete sellado",
+    "phase": "Todas las edades",
+    "measure": "1 kg",
+    "spec": "Purina"
   }
 ]
