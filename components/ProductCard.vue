@@ -34,7 +34,7 @@ const path = computed(()=>  `./images/${props.product.image}`)
     /-->
     <div>
       <CartDesc :product="product"/>
-      <div class="text-center m-4">
+      <!--div class="text-center m-4">
         <AppCountInput v-model="count" />
         <AppButton
           class="ml-2 primary py-1"
@@ -42,7 +42,7 @@ const path = computed(()=>  `./images/${props.product.image}`)
         >
             Añadir al carrito
         </AppButton>
-      </div>
+      </div-->
       
     </div>
   </li>

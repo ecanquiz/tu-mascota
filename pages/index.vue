@@ -19,12 +19,12 @@ productStore.fill();
 </script>
 
 <template>
-  <div class="container">
-    <TheHeader />
-    <div class="mb-5 flex justify-end">
+  <div class="container p-10">
+    <!--TheHeader /-->
+    <!--div class="mb-5 flex justify-end">
       <AppButton @click="cartStore.undo">Undo</AppButton>
       <AppButton class="ml-2" @click="cartStore.redo">Redo</AppButton>
-    </div>
+    </div-->
     <ClientOnly v-if="productStore.products">
       <ul class="sm:flex flex-wrap gap-5">
         <ProductCard
