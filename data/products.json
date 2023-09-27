@@ -2,7 +2,7 @@
   {
     "name": "Mirringo",
     "image": "mirringo-adulto.jpg",
-    "price" : 4,
+    "price" : 5,
     "saleType": "Entrega inmediata",
     "presentation": "Paquete sellado",
     "phase": "Adulto",
@@ -11,7 +11,7 @@
   },{
     "name": "Mirringo",
     "image": "mirringo-gaticos.jpg",
-    "price" : 4,
+    "price" : 5,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Cachorro",
@@ -23,7 +23,7 @@
     "image": "nutrion-gatos-premium.jpg",
     "price": 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "",
     "measure": "1 kg",
     "spec": "Premium"
@@ -31,9 +31,9 @@
   {
     "name": "K-Nina",
     "image": "k-nina.jpg",
-    "price" : 3,
+    "price" : 5,
     "saleType": "Por encargo",
-    "presentation": "A granel detallado",
+    "presentation": "Paquete sellado",
     "phase": "Adulto",
     "measure": "1 kg",
     "spec": "Purina"
@@ -41,9 +41,9 @@
   {
     "name": "K-Nina",
     "image": "k-nina-cachorro.jpg",
-    "price" : 12,
+    "price" : 5,
     "saleType": "Por encargo",
-    "presentation": "A granel detallado",
+    "presentation": "Paquete sellado",
     "phase": "Cachorro",
     "measure": "1 kg",
     "spec": "Purina"
@@ -51,7 +51,7 @@
   {
     "name": "Dog-Chow",
     "image": "dog-chow.jpg",
-    "price" : 12,
+    "price" : 5,
     "saleType": "Por encargo",
     "presentation": "A granel detallado",
     "phase": "",
@@ -61,7 +61,7 @@
   {
     "name": "Dogourmet",
     "image": "dogourmet.jpg",
-    "price" : 4,
+    "price" : 5,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Adulto",
@@ -71,7 +71,7 @@
   {
     "name": "Ringo",
     "image": "ringo-pro-adulto.jpg",
-    "price": 5,
+    "price": 4,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Adulto",
@@ -81,7 +81,7 @@
   {
     "name": "Ringo",
     "image": "ringo-pro-cachorro.jpg",
-    "price" : 3,
+    "price" : 5,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Cachorro",
@@ -91,7 +91,7 @@
   {
     "name": "Ringo",
     "image": "ringo-cachorro.jpg",
-    "price" : 12,
+    "price" : 3.5,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Cachorro",
@@ -101,9 +101,9 @@
   {
     "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-maintenance-for-cats.jpg",
-    "price" : 3,
+    "price" : 8.5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Todas las edades",
     "measure": "1 kg",
     "spec": "Mantenimiento para gatos"
@@ -111,7 +111,7 @@
   {
     "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-maintenance-for-dogs.jpg",
-    "price" : 3,
+    "price" : 8.5,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Todas las edades",
@@ -121,7 +121,7 @@
   {
     "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-lamb-meal-and-rice.jpg",
-    "price" : 12,
+    "price" : 10,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Todas las edades",
@@ -131,7 +131,7 @@
   {
     "name": "Cham's",
     "image": "champs.jpg",
-    "price" : 12,
+    "price" : 3,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Todas las edades",
@@ -141,9 +141,9 @@
   {
     "name": "Cat-Chow",
     "image": "cat-chow.jpg",
-    "price" : 12,
+    "price" : 9,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Todas las edades",
     "measure": "1 kg",
     "spec": "Purina"
@@ -151,9 +151,9 @@
   {
     "name": "Gatsy",
     "image": "gatsy.jpg",
-    "price" : 12,
+    "price" : 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Adultos",
     "measure": "1 kg",
     "spec": "Purina"
@@ -161,7 +161,7 @@
   {
     "name": "Gatsy (sabores caseros)",
     "image": "gatsy-sabores-caseros.jpg",
-    "price" : 12,
+    "price" : 5,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Todas las edades",
@@ -171,7 +171,7 @@
   {
     "name": "Kit & Kaboodle (original)",
     "image": "kit-and-kaboodle-original.jpg",
-    "price" : 12,
+    "price" : 7,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Todas las edades",
