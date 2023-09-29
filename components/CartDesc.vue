@@ -19,7 +19,7 @@ defineProps<{
   <div class="bg-blue-100">
     <div class="flex bg-blue-300">
       <span class="flex-auto m-1 p-1 self-center text-red-700">{{ product.name.toUpperCase() }}</span>
-      <span v-if="product.phase" class="flex-auto m-1 p-1 self-center text-sm text-gray-700"><i>{{ product.phase }}</i></span>
+      <span v-if="product.phase" class="flex-auto m-1 p-1 self-center text-sm text-violet-700"><i>{{ product.phase }}</i></span>
       <span class="flex-auto m-1 p-1 self-center text-blue-500 text-sm">{{ product.presentation }}</span>
     </div>
     
