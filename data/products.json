@@ -33,7 +33,7 @@
     "image": "k-nina.jpg",
     "price" : 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Adulto",
     "measure": "1 kg",
     "spec": "Purina"
@@ -43,7 +43,7 @@
     "image": "k-nina-cachorro.jpg",
     "price" : 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Cachorro",
     "measure": "1 kg",
     "spec": "Purina"
@@ -63,7 +63,7 @@
     "image": "dogourmet.jpg",
     "price" : 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Adulto",
     "measure": "1 kg",
     "spec": "Carne a la parrilla"
@@ -93,7 +93,7 @@
     "image": "ringo-cachorro.jpg",
     "price" : 3.5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Cachorro",
     "measure": "1 kg",
     "spec": "Estimula el crecimiento"
@@ -111,7 +111,7 @@
   {
     "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-maintenance-for-dogs.jpg",
-    "price" : 8.5,
+    "price" : 9,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Todas las edades",
@@ -121,7 +121,7 @@
   {
     "name": "Nutra-Nuggets",
     "image": "nutra-nuggets-lamb-meal-and-rice.jpg",
-    "price" : 10,
+    "price" : 8.5,
     "saleType": "Por encargo",
     "presentation": "Paquete sellado",
     "phase": "Todas las edades",
@@ -129,11 +129,21 @@
     "spec": "Harina de cordero y arroz"
   },
   {
+    "name": "Nutra-Nuggets",
+    "image": "nutra-nuggets-lite-senior-for-dog.jpg",
+    "price" : 9,
+    "saleType": "Por encargo",
+    "presentation": "Paquete sellado",
+    "phase": "Adulto",
+    "measure": "1 kg",
+    "spec": "Ligera/senior para perro"
+  },
+  {
     "name": "Cham's",
     "image": "champs.jpg",
     "price" : 3,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Todas las edades",
     "measure": "1 kg",
     "spec": "Alimento completo"
@@ -163,7 +173,7 @@
     "image": "gatsy-sabores-caseros.jpg",
     "price" : 5,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Todas las edades",
     "measure": "1 kg",
     "spec": "Purina"
@@ -173,9 +183,20 @@
     "image": "kit-and-kaboodle-original.jpg",
     "price" : 7,
     "saleType": "Por encargo",
-    "presentation": "Paquete sellado",
+    "presentation": "A granel detallado",
     "phase": "Todas las edades",
     "measure": "1 kg",
     "spec": "Purina"
+  },
+  {
+    "name": "Arena Aglomerante",
+    "image": "arena-aglomerante-neo.clean.jpg",
+    "price" : 4,
+    "saleType": "Por encargo",
+    "presentation": "Paquete sellado",
+    "phase": "",
+    "measure": "1 kg",
+    "spec": "Neo Clean",
+    "scale": "50"
   }
 ]
